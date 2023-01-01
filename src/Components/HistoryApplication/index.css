@@ -1,0 +1,39 @@
+.main-div {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: auto;
+}
+.sub-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 50%;
+}
+.delete-icon {
+  background-color: transparent;
+  border-width: 0px;
+}
+.image {
+  height: 30px;
+  width: 30px;
+}
+.time {
+  font-size: 15px;
+  font-weight: 700;
+  color: #64748b;
+}
+.icon-image {
+  height: 40px;
+  width: 40px;
+}
+.main-heading {
+  font-size: 20px;
+}
+.main-heading-sub {
+  color: #475569;
+  font-weight: 600;
+}
